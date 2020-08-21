@@ -1,5 +1,5 @@
 <section style="float: left; width: 100%; display: flex; background: #fff; color: #333;">
-    <img src="resources/olivercullimore.svg" alt="Oliver Cullimore" width="180" style="margin-right: 30px;">
+    <img src="https://raw.githubusercontent.com/OliverCullimore/OliverCullimore/master/resources/olivercullimore.svg" alt="Oliver Cullimore" width="180" style="margin-right: 30px;">
     <div>
         <h1>Hi, I'm Ollie 👋💻</h1>
         <p>
@@ -52,5 +52,5 @@
             </div>
         </div>
     </div>
-    <img src="resources/website.svg" alt="Oliver Cullimore" width="180" style="margin-left: 30px;">
+    <img src="https://raw.githubusercontent.com/OliverCullimore/OliverCullimore/master/resources/website.svg" alt="Oliver Cullimore" width="180" style="margin-left: 30px;">
 </section>
